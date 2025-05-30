@@ -1,0 +1,11 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+beautifulsoup4
+langchain-text-splitters
+chromadb
+streamlit
+faiss-cpu
+langchain-ollama
